@@ -69,7 +69,7 @@ Any value from 2.2k to 10k should be OK.
 
 ## 3. Libraries needed
 
-- [ESP32 Core for Arduino](https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/boards_manager.md) (installation with Boards Manager)
+- [ESP32 Core for Arduino](https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html) (installation with Boards Manager)
 - [TinyGPS++](https://github.com/mikalhart/TinyGPSPlus)
 - [CayenneLPP](https://github.com/sabas1080/CayenneLPP)
 - [BME280-I2C-ESP32](https://github.com/Takatsuki0204/BME280-I2C-ESP32)
